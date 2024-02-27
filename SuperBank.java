@@ -4,3 +4,9 @@ public class SuperBank {
     System.out.println("rollno: " + rollno);
    }
 }
+
+class A extends SuperBank{
+    void getValues(){
+        
+    }
+}
